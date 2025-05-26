@@ -43,6 +43,8 @@ Step 7: Delete a particular branch
                       git push origin --delete <branch_name>// Will delete from remote repository  
 Topics covered: Overview of Build Automation Tools, Key Differences Between Maven 
 and Gradle, Install and set up the maven and gradle 
+
+
 Program-2: 
 a)Overview of Build Automation Tools, Key Differences Between Maven and Gradle 
 b)Install and set up the maven and gradle in your system . 
@@ -129,6 +131,9 @@ Build time:    2025-01-24 12:55:12 UTC
  
  
  
+
+
+
 Topics covered: Creating a Maven Project, Understanding the POM File, Dependency 
 Management 
 Program-3: 
@@ -199,6 +204,11 @@ pasted into the dependencies section.
 Step-4: Run the Main.main to see the output as follows 
 {“name”:john, “age”:30} 
 Topics covered: Plugin management in maven 
+
+
+
+
+
 Program-4: 
 a) Illustrate the use of maven-jar-plugin to package the project into a jar file. Showing 
 how to run a main class and show simple output.  
@@ -350,6 +360,8 @@ can access it at
          https://<your-github-username>.github.io/<your-repository-name>/ 
 Topics covered: Configuration of pom.xml  of maven project with selenium and TestNG 
 for automation testing , Maven site & deploy Commands  for Documentation 
+
+
 Program-5:  
 a)Write the java class for Testing the title of your website using Selenium, Java, and 
 TestNG 
@@ -496,6 +508,10 @@ D:/my-local-maven-repo/
  
 Topics covered:  Working with Gradle: Setting Up a Gradle Project, Understanding Build 
 Scripts (Groovy and Kotlin DSL), Dependency Management  
+
+
+
+
 Program-6 
 Create a Java program to create a class called Person with properties name and age. 
 Display the person details in json format using Gson libraray. Show how to configure the 
@@ -581,6 +597,8 @@ implementation 'com.google.code.gson:gson:2.8.9'
 Step-4: Run the Main.main to see the output as follows 
 {“name”:john, “age”:30} 
 Topics covered:  Migrate the maven Application to Gradle 
+
+
 Program-7:  
 Build and Run a Java Application with Maven, Migrate the Same Application to Gradle 
 Step 1: Create a New Maven Project: 
@@ -662,6 +680,9 @@ SNAPSHOT.jar or by executing the following command
  
 Topics covered:  Introduction to Jenkins: What is Jenkins?, Installing Jenkins on Local 
 or Cloud Environment, Configuring Jenkins for First Use 
+
+
+
 Program-8:  
 Install Jenkins on Local or Cloud Environment, Configuring Jenkins for First Use 
  
@@ -716,6 +737,10 @@ Configure Java, Maven, and Gradle in Jenkins:
                       Gradle ( C:\gradle-<version> ) 
  Click Save 
  
+
+
+
+
 Topics covered:   Continuous Integration with Jenkins: Setting Up a CI Pipeline, 
 Integrating Jenkins with Maven/Gradle, Running Automated Builds and Tests 
 Program-9:  
